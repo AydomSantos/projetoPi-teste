@@ -1,7 +1,3 @@
-
-
-/*
-
 import carrinhoPagina from "./pages/carrinho/index";
 import registerPagina from "./pages/tela_registro/index";
 import faqPagina from "./pages/pagina_faq/index";
@@ -70,4 +66,3 @@ document.addEventListener("DOMContentLoaded", () => {
     const currentUrl = window.location.pathname;
     handleNavigation(currentUrl);
 });
-*/
