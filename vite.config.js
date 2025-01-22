@@ -1,1 +1,7 @@
-export default { build: { assetsDir: 'assets' } }
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  build: {
+    assetsDir: 'assets'
+  }
+});
