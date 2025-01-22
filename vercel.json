@@ -2,12 +2,10 @@
     "version": 2,
     "builds": [
       {
-        "src": "index.html",
-        "use": "@vercel/static"
+        "src": "index.html"
       },
       {
-        "src": "src/**/*",
-        "use": "@vercel/static"
+        "src": "src/**/*"
       }
     ],
     "routes": [
